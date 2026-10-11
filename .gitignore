@@ -54,7 +54,10 @@ backend/storage/
 .DS_Store
 Thumbs.db
 
-# Superseded export and local document-render inspection files.
+# Local project artwork and submission documents.
+/docs/project-assets/
+/docs/project-story-figures/
+/docs/submission/
+
+# Superseded screenshot export.
 docs/interface-screenshots/AquaPulse-9-Interface-Screenshots.zip
-docs/submission/research-pdf-preview/
-docs/submission/research-pdf-check.json

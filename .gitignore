@@ -59,5 +59,15 @@ Thumbs.db
 /docs/project-story-figures/
 /docs/submission/
 
+# Local demo scripts and project write-ups.
+/docs/demo-script.en.md
+/docs/demo-script.md
+/docs/demo-video-local.md
+/docs/local-demo.md
+/docs/loi-thuyet-trinh.md
+/docs/m.md
+/docs/project-story.en.md
+/docs/vector-watch.md
+
 # Superseded screenshot export.
 docs/interface-screenshots/AquaPulse-9-Interface-Screenshots.zip

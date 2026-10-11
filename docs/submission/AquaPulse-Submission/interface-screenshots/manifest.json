@@ -1,0 +1,153 @@
+{
+  "screenshots": [
+    {
+      "file": "01-home.png",
+      "title": "Home and river map",
+      "caption": "Explore the canal map, recent observations, active alerts, and the stretches that need attention.",
+      "caption_characters": 97,
+      "width": 1440,
+      "height": 1054,
+      "bytes": 1338039,
+      "sha256": "9fb6075f1d2e5df54649f022cb4a0a5d8b81ef5054ee290242389ab44e3456e7",
+      "captured_at": "2026-10-04T05:13:07.714576+00:00",
+      "language": "en",
+      "capture": "complete_feature_section"
+    },
+    {
+      "file": "02-report-and-analysis.png",
+      "title": "Photo report and analysis",
+      "caption": "Upload a photo, answer what you saw, review the analysis, and save an observation for follow-up.",
+      "caption_characters": 96,
+      "width": 1440,
+      "height": 1961,
+      "bytes": 852381,
+      "sha256": "0ce02b3693b6762a41da71bebf461ff9ab99af35f6d2559e1e39c27a1837a3f7",
+      "captured_at": "2026-10-04T05:10:21.513976+00:00",
+      "language": "en",
+      "capture": "full_page"
+    },
+    {
+      "file": "03-canal-passport.png",
+      "title": "Canal passport",
+      "caption": "Check a canal stretch's risk indicators, observation history, rainfall, and supporting evidence.",
+      "caption_characters": 96,
+      "width": 1440,
+      "height": 2415,
+      "bytes": 530112,
+      "sha256": "0d40d10225825ba4742dbe458acd61d8fcdbb6886dfa4dbeff7124ead8a36cb9",
+      "captured_at": "2026-10-04T05:10:22.736904+00:00",
+      "language": "en",
+      "capture": "full_page"
+    },
+    {
+      "file": "04-yolo-container-detection.png",
+      "title": "YOLO detection at the water's edge",
+      "caption": "Run YOLO11n on discarded tyres beside the water and review the detection with the photo analysis.",
+      "caption_characters": 97,
+      "width": 1440,
+      "height": 2228,
+      "bytes": 836121,
+      "sha256": "797fe970bf0cadc346494ec591d5f6bb9506e798c0911d5349187d77a9f5d927",
+      "captured_at": "2026-10-04T05:34:20.177689+00:00",
+      "language": "en",
+      "capture": "full_page"
+    },
+    {
+      "file": "05-verification.png",
+      "title": "Human verification",
+      "caption": "Review reports and alerts, add verification notes, and decide which cases need further attention.",
+      "caption_characters": 97,
+      "width": 1440,
+      "height": 879,
+      "bytes": 119713,
+      "sha256": "e375411caaaee4155d1c0f54ed8b00f06e34ee0f817928d3182d66c63321d016",
+      "captured_at": "2026-10-04T05:18:56.814509+00:00",
+      "language": "en",
+      "capture": "complete_feature_section"
+    },
+    {
+      "file": "06-community-missions.png",
+      "title": "Community missions",
+      "caption": "Browse cleanup and checking missions, see deadlines and reward points, and sign in as a verifier.",
+      "caption_characters": 97,
+      "width": 1440,
+      "height": 1531,
+      "bytes": 320219,
+      "sha256": "36d5ad35b137ec8044b57088287355e4c7a8ffb8dad11f9119ad31e5270fabcd",
+      "captured_at": "2026-10-04T05:10:25.950713+00:00",
+      "language": "en",
+      "capture": "full_page"
+    },
+    {
+      "file": "07-dashboard.png",
+      "title": "Expert dashboard",
+      "caption": "Compare report trends, verification progress, treatment results, and areas that need attention.",
+      "caption_characters": 95,
+      "width": 1440,
+      "height": 3109,
+      "bytes": 902500,
+      "sha256": "31a6e162231239e4774c6aceb13cc112f0182d62a4d50c216db357aa91315f69",
+      "captured_at": "2026-10-04T05:13:09.598039+00:00",
+      "language": "en",
+      "capture": "complete_feature_section"
+    },
+    {
+      "file": "08-oneaquahealth.png",
+      "title": "OneAquaHealth reference sites",
+      "caption": "Explore monitoring sites and their reference measurements, sampling history, and weather context.",
+      "caption_characters": 97,
+      "width": 1440,
+      "height": 994,
+      "bytes": 146773,
+      "sha256": "e65ca76d0a170658e4ff2944122e3e3dac80efe85620a042e1e5dcc17d1ec9cb",
+      "captured_at": "2026-10-04T05:10:31.167025+00:00",
+      "language": "en",
+      "capture": "complete_feature_section"
+    },
+    {
+      "file": "09-community.png",
+      "title": "Community activity",
+      "caption": "See neighborhood notices and the leaderboard, with points awarded for verified contributions.",
+      "caption_characters": 93,
+      "width": 1440,
+      "height": 844,
+      "bytes": 126237,
+      "sha256": "2a435ace8669e494e56f66ebba6bc369852a7a0bef530f3becd76cf6fc02c9e1",
+      "captured_at": "2026-10-04T05:18:55.951963+00:00",
+      "language": "en",
+      "capture": "complete_feature_section"
+    },
+    {
+      "file": "04-questions-and-answers.png",
+      "title": "Canal questions and answers",
+      "caption": "Ask about a canal stretch and see the evidence, uncertainty, and practical steps behind each answer.",
+      "caption_characters": 100,
+      "width": 1440,
+      "height": 844,
+      "bytes": 112436,
+      "sha256": "9e99bebf874ff44d46d79a9b5004876e937f9821108c1c89ad2d77011f08b5c1",
+      "captured_at": "2026-10-04T05:10:24.880176+00:00",
+      "language": "en",
+      "capture": "full_page"
+    }
+  ],
+  "local_demo": true,
+  "analysis": "Photo analysis in image 02 is a successful response from the current backend using the existing kimi-k3 cache.",
+  "yolo": {
+    "file": "04-yolo-container-detection.png",
+    "detector": "YOLO11n",
+    "water_segmenter": "YOLO11s-seg",
+    "source_image": "data/images/train/vistext_dfbc63fc4d2863a7.jpg",
+    "source_split": "train",
+    "source_original": "1-2-_jpg.rf.f6f585332e8d2f96d40eba243669f908.jpg",
+    "scene": "Discarded tyres at a rocky water's edge",
+    "detections": [
+      {
+        "name": "used_tire",
+        "confidence": 0.9613
+      }
+    ],
+    "water_instances": 0,
+    "purpose": "Interface demonstration, not held-out evaluation"
+  }
+}

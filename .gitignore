@@ -53,3 +53,8 @@ backend/storage/
 *.tmp
 .DS_Store
 Thumbs.db
+
+# Superseded export and local document-render inspection files.
+docs/interface-screenshots/AquaPulse-9-Interface-Screenshots.zip
+docs/submission/research-pdf-preview/
+docs/submission/research-pdf-check.json

@@ -146,7 +146,7 @@
 </style>
 <link rel="stylesheet" href="/static/theme.css">
 <script src="/static/demo-mode.js"></script>
-<script src="/static/i18n.js"></script>
+<script src="/static/i18n.js?v=login-contact-20261004"></script>
 <script src="/static/evidence.js" defer></script>
 </head>
 <body>
@@ -646,6 +646,8 @@
   }
 
   async function loadMe() {
+    // This panel renders its own localized content; do not reapply the loading label.
+    $("me").removeAttribute("data-i18n");
     const me = reporterId();
     if (!me) {
       $("me").replaceChildren(el("span", { textContent: t("home.firstreport") }));

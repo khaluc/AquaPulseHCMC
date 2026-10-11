@@ -145,6 +145,9 @@ NO_TRANSLATE = ("/fhir/",)
 @app.middleware("http")
 async def language(request: Request, call_next):
     response = await call_next(request)
+    if (response.headers.get("content-type", "").startswith("text/html")
+            or request.url.path == "/static/i18n.js"):
+        response.headers["Cache-Control"] = "no-cache"
     lang = i18n.normalize(request.query_params.get("lang"))
     bilingual = request.headers.get("X-AquaPulse-Languages") == "vi,en"
     if (request.url.path.startswith(NO_TRANSLATE)

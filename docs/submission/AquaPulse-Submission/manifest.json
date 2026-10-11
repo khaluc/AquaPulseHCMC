@@ -1,0 +1,192 @@
+{
+  "project": "AquaPulse",
+  "screenshots": 10,
+  "diagrams": 4,
+  "files": [
+    {
+      "file": "index.html",
+      "bytes": 8887,
+      "sha256": "9db3f8223d59a2245a84484ab48eff3e67b484b831469753ce5bf887bc7a594f"
+    },
+    {
+      "file": "interface-screenshots/01-home.png",
+      "bytes": 1338039,
+      "sha256": "9fb6075f1d2e5df54649f022cb4a0a5d8b81ef5054ee290242389ab44e3456e7"
+    },
+    {
+      "file": "interface-screenshots/02-report-and-analysis.png",
+      "bytes": 852381,
+      "sha256": "0ce02b3693b6762a41da71bebf461ff9ab99af35f6d2559e1e39c27a1837a3f7"
+    },
+    {
+      "file": "interface-screenshots/03-canal-passport.png",
+      "bytes": 530112,
+      "sha256": "0d40d10225825ba4742dbe458acd61d8fcdbb6886dfa4dbeff7124ead8a36cb9"
+    },
+    {
+      "file": "interface-screenshots/04-questions-and-answers.png",
+      "bytes": 112436,
+      "sha256": "9e99bebf874ff44d46d79a9b5004876e937f9821108c1c89ad2d77011f08b5c1"
+    },
+    {
+      "file": "interface-screenshots/04-yolo-container-detection.png",
+      "bytes": 836121,
+      "sha256": "797fe970bf0cadc346494ec591d5f6bb9506e798c0911d5349187d77a9f5d927"
+    },
+    {
+      "file": "interface-screenshots/05-verification.png",
+      "bytes": 119713,
+      "sha256": "e375411caaaee4155d1c0f54ed8b00f06e34ee0f817928d3182d66c63321d016"
+    },
+    {
+      "file": "interface-screenshots/06-community-missions.png",
+      "bytes": 320219,
+      "sha256": "36d5ad35b137ec8044b57088287355e4c7a8ffb8dad11f9119ad31e5270fabcd"
+    },
+    {
+      "file": "interface-screenshots/07-dashboard.png",
+      "bytes": 902500,
+      "sha256": "31a6e162231239e4774c6aceb13cc112f0182d62a4d50c216db357aa91315f69"
+    },
+    {
+      "file": "interface-screenshots/08-oneaquahealth.png",
+      "bytes": 146773,
+      "sha256": "e65ca76d0a170658e4ff2944122e3e3dac80efe85620a042e1e5dcc17d1ec9cb"
+    },
+    {
+      "file": "interface-screenshots/09-community.png",
+      "bytes": 126237,
+      "sha256": "2a435ace8669e494e56f66ebba6bc369852a7a0bef530f3becd76cf6fc02c9e1"
+    },
+    {
+      "file": "interface-screenshots/manifest.json",
+      "bytes": 5977,
+      "sha256": "5a7286f4fab04ac9bab4a6c1089ffa12812309a9559db2bd86e0d1d9fcd950d8"
+    },
+    {
+      "file": "interface-screenshots/README.md",
+      "bytes": 3217,
+      "sha256": "66f392cb6fffaaa37bbe44abd5ece992b118b3282d1e9dfa6f14dc65b2627f06"
+    },
+    {
+      "file": "model-evidence/detector-small-test-report.json",
+      "bytes": 4054,
+      "sha256": "5137ca516aabe792412519e1f07d9a6ac01358cf820716e204d38e6f2f461d9f"
+    },
+    {
+      "file": "model-evidence/detector-small-training-args.yaml",
+      "bytes": 1669,
+      "sha256": "b5597cd054985a18e3e737f8486ae5da81d0fc1163fb6aeb9ebb43727c0f641b"
+    },
+    {
+      "file": "model-evidence/detector-small-training-results.csv",
+      "bytes": 6450,
+      "sha256": "ab08b74badb844d76803d4889a0802e3f9b384c35236fd93c13537aa4401cd3e"
+    },
+    {
+      "file": "model-evidence/detector-stock-test-report.json",
+      "bytes": 4107,
+      "sha256": "a0e6694879b904797fcd7a7fba049b04de342caeebece966dd6929947dc1835c"
+    },
+    {
+      "file": "model-evidence/detector-stock-training-args.yaml",
+      "bytes": 1689,
+      "sha256": "f170ae09f9314841ddc7caf1e75fcaafa2d5763c39fc1c2423ba2e8b9bc4654f"
+    },
+    {
+      "file": "model-evidence/detector-stock-training-results.csv",
+      "bytes": 6455,
+      "sha256": "dc0fc9668ecf723c5aacc749a91cccd96b118e1f95b4f91ec7faa44c50c46675"
+    },
+    {
+      "file": "model-evidence/detector-test-report.json",
+      "bytes": 4075,
+      "sha256": "fe67b2cd2c32ab2d4558e0d54d4b65c731c2aa3892baf929d1ec8af4495fc4e6"
+    },
+    {
+      "file": "model-evidence/detector-training-args.yaml",
+      "bytes": 1669,
+      "sha256": "08b81f1afb339c6404058dad6bb5888e87cb54f1aabf4c1a266ff33493071289"
+    },
+    {
+      "file": "model-evidence/detector-training-results.csv",
+      "bytes": 5820,
+      "sha256": "e0ca31cefbe1dfd0ee78d8dda67cf357f765ed33980644fa069cdd8bb57df71d"
+    },
+    {
+      "file": "model-evidence/README.md",
+      "bytes": 1236,
+      "sha256": "5f44196c0dbd1affd5f8b6cb05fa674777d22aefa8d8751f33e7ab4bd2476443"
+    },
+    {
+      "file": "model-evidence/water-nano-training-args.yaml",
+      "bytes": 1689,
+      "sha256": "bf0b4906d39efd3e4fee5284720b2c7e5550203726120ea81ae8a85704ab2ef7"
+    },
+    {
+      "file": "model-evidence/water-nano-training-results.csv",
+      "bytes": 10849,
+      "sha256": "ddc1fa5ff35e2692f84e2656dc09f0a62110c4dce131058398a7ed3eefc108d0"
+    },
+    {
+      "file": "model-evidence/water-training-args.yaml",
+      "bytes": 1693,
+      "sha256": "7be19f5a7bcf72eba550ecc944343c31d16d14a735d2d132cecaa0871437bba2"
+    },
+    {
+      "file": "model-evidence/water-training-results.csv",
+      "bytes": 33922,
+      "sha256": "286d253d02f999824f343ec346163e3bd635d41fa069a0c7df94b69a493f53c7"
+    },
+    {
+      "file": "project-story-figures/01-observation-pipeline.png",
+      "bytes": 192594,
+      "sha256": "3e27f637209c113481f9813523a26863b4f1befb45d8ceb99e99f771a152ed79"
+    },
+    {
+      "file": "project-story-figures/02-training-and-evaluation.png",
+      "bytes": 233588,
+      "sha256": "bb3699c68906de88d102a7ed21333ca89e188c812125bb5e718dfff59a8a05eb"
+    },
+    {
+      "file": "project-story-figures/03-system-architecture.png",
+      "bytes": 212407,
+      "sha256": "41e5b6d0ccf6914c223d1d77b3da505810efd71dbb99a44ed20006a005cd2f78"
+    },
+    {
+      "file": "project-story-figures/04-evidence-and-verification.png",
+      "bytes": 259532,
+      "sha256": "7f0aff25dda9f71f40f8210f53b558f5711b5506cb29fd5ea494cb36147b3a57"
+    },
+    {
+      "file": "project-story-figures/README.md",
+      "bytes": 589,
+      "sha256": "70d70ba3bf82abb709a161bac84556b80254231bb13bdd28f910b3a9d2b627bd"
+    },
+    {
+      "file": "project-story.en.html",
+      "bytes": 20528,
+      "sha256": "4e429547f7af8808693eb4ecfd79c8b26c42a895624d2accdaeb7040a6989400"
+    },
+    {
+      "file": "project-story.en.md",
+      "bytes": 17360,
+      "sha256": "577b492795d96c14f8fe067d9ecc4cec8466f6bae6c4a3b0fc4fa029286281ba"
+    },
+    {
+      "file": "README.md",
+      "bytes": 4828,
+      "sha256": "597c14c804837d10f9b924fc82c2ccc22f3e0bbb1333de3b50c0f80f1b9c7023"
+    },
+    {
+      "file": "research-report/AquaPulse-Research-Report.en.md",
+      "bytes": 28124,
+      "sha256": "238da0df9148bfab9852a4ad3b6c7d92a6b3ca35fc4355b6875ad3be9d4d5c44"
+    },
+    {
+      "file": "research-report/AquaPulse-Research-Report.pdf",
+      "bytes": 373963,
+      "sha256": "fd914f3acae17c6dc2da43430dd5e9155161eb443a1562118ff94d8a493ff91f"
+    }
+  ]
+}
